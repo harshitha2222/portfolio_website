@@ -1,0 +1,7 @@
+.smoothscroll {
+    color: orange !important;
+}
+
+.smoothscroll:hover{
+    color: white !important;
+}
